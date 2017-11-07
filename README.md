@@ -8,14 +8,17 @@ MAPify is made in Android and the ultimate purpose of this application is to pro
 You should have an android phone to run this application. If you want to modify/add/delete it then use Android Studio as your IDE.
 
 ## Download
-Download android app - []()
+Download android app - [MAPify-release.apk](app/release/app-release.apk)
 
 ## Screenshots
 ![](images/image1.jpg?raw=true)
 
+We will scan this card - 
 ![](images/image2.jpg?raw=true)
 
-![](images/image3.jpg?raw=true)
+![](images/image3.jpeg?raw=true)
+
+![](images/image4.jpeg?raw=true)
 
 ## API Used
 Google Vision API for OCR
