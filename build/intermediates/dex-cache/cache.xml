@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/57ab3221a13656bb9276a665773bffcc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.4.0.aar/ef168346bd7e38ec9a1944247f87cfc2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="49743d94bd8f62b64049c3e3065c18598ce2ca7f">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d42ca306d69b54a0f5a06cefaea7eb08/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.4.0.aar/e661c221b5cd4d93a9f0b9471fb14a46/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7b1611b735b2514838fd1f2907e42595a8e42816">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.4.0.aar/11223dfdacc18aefe32b8799ab44156f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8dde03eb53b4cd9bc4ca01565dc214f3517e7009">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a5d460d74451db1f0231080818b2bda1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/93ee1379146222f1e51cf0fda2102ed7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0aa78c965ef13d889906d0db4a5e1598/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/83253a4f558610c06c0cce1ef1a10a60/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ba0c74f331f398cad32306e08dde0ee9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.4.0.aar/6b28f9ec7d701d7aa0c9728e0315217b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c1eec02d13bf127e171f0c4eb3280b9f28bff5a3">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/eaea13d1055d6ff92677da020cda77d7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9255ce211f458307c4f40f5470691136/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da76ca59f6a57ee3102f8f9bd9cee742973efa8a">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.5/7a15a7db50f86c4b64aa3367424a60e3a325b8f1/okhttp-2.7.5.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/modules-2/files-2.1/com.google.maps/google-maps-services/0.1.20/1e0937a4dba57b19d8ea542a8da285f2a96035ab/google-maps-services-0.1.20.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1e0937a4dba57b19d8ea542a8da285f2a96035ab">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.4.0.aar/7caa28c3fca413854b9566dd3a1d019b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="453427e529ccd47ef859c7d739a59ab32f7f14ee">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.9.7/6eb2e87ddb09e944bb88f06f19ba0638d4607ffd/joda-time-2.9.7.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6eb2e87ddb09e944bb88f06f19ba0638d4607ffd">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.4.0.aar/7105432827315478f0436c9ba6016e78/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f34896233f3fe6ecb75025e06b33980cee8239a">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/bcff2b474779e19ccd17c198072da60e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/darshan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/77ae067f24fb292bad0972caff5d44dd/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+
+</items>

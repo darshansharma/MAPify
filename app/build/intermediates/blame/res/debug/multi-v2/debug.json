@@ -113,6 +113,22 @@
             ]
         },
         {
+            "outputFile": "/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/res/merged/debug/values-v26_values-v26.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/darshan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a5d460d74451db1f0231080818b2bda1/res/values-v26/values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,896",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,984"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/res/merged/debug/values-zh-rCN_values-zh-rCN.arsc.flat",
             "map": [
                 {
@@ -164,22 +180,6 @@
                         "startOffsets": "2812",
                         "endColumns": "157",
                         "endOffsets": "2965"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/res/merged/debug/values-v26_values-v26.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/darshan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a5d460d74451db1f0231080818b2bda1/res/values-v26/values-v26.xml",
-                    "from": {
-                        "startLines": "2,3,4,8,12,16",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,130,217,431,657,896",
-                        "endLines": "2,3,7,11,15,16",
-                        "endColumns": "74,86,12,12,12,92",
-                        "endOffsets": "125,212,426,652,891,984"
                     }
                 }
             ]
@@ -1060,6 +1060,40 @@
             ]
         },
         {
+            "outputFile": "/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/res/merged/debug/values-v16_values-v16.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/darshan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a5d460d74451db1f0231080818b2bda1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/darshan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9255ce211f458307c4f40f5470691136/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/res/merged/debug/values-mr_values-mr.arsc.flat",
             "map": [
                 {
@@ -1111,40 +1145,6 @@
                         "startOffsets": "3073",
                         "endColumns": "201",
                         "endOffsets": "3270"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/darshan/AndroidStudioProjects/MAPify/app/build/intermediates/res/merged/debug/values-v16_values-v16.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/darshan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a5d460d74451db1f0231080818b2bda1/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "223"
-                    },
-                    "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "121",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "/home/darshan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9255ce211f458307c4f40f5470691136/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

@@ -162,10 +162,9 @@ public class MainActivity extends Activity {
                             } else {
                                 //scanResults.setText(scanResults.getText() + "Blocks: " + "\n");
                                 //scanResults.setText(scanResults.getText() + blocks + "\n");
-                                scanResults.setText(scanResults.getText() + "---------" + "\n");
-                                scanResults.setText(scanResults.getText() + "Lines: " + "\n");
+                                scanResults.setText(scanResults.getText() + "***************" + "\n");
                                 scanResults.setText(scanResults.getText() + lines + "\n");
-                                scanResults.setText(scanResults.getText() + "---------" + "\n");
+                                scanResults.setText(scanResults.getText() + "***************" + "\n");
 
                                 address = lines;
 
